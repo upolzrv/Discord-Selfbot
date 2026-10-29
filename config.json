@@ -1,7 +1,7 @@
 {
   "prefix": ".",
   "selfbotOnly": false,
-  "adminBot": [],
+  "adminBot": ["1331706444344721463"],
   "author": "JARiF",
   "language": "en",
   "status": {
@@ -12,5 +12,5 @@
       "url": "https://github.com/"
     }
   },
-  "token": "your_user_token"
+  "token": "MTE0MjQ0NDU0NjAyNjkxMzg4Mw.G3Latr.ZIk7nETU8aGJaA9uSZmQAEolEN3kg0tVcpkYYs"
 }
